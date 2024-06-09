@@ -1,3 +1,6 @@
 [submodule "assessing-ad-clicks"]
 	path = assessing-ad-clicks
 	url = https://github.com/tacotuesday/assessing-ad-clicks
+[submodule "most-valuable-customers"]
+	path = most-valuable-customers
+	url = https://github.com/tacotuesday/most-valuable-customers
